@@ -1,0 +1,21 @@
+{
+ "input": "hello;world\n",
+ "classfication": "SUSPICIOUS",
+ "evidence_level": "LOW",
+ "findings": [
+  {
+   "rule": "CONTROL_CHARACTER",
+   "description": "Input Contains a Control Character"
+  },
+  {
+   "rule": "SPECIAL_CHARACTER\n",
+   "description": "Input contains characters that may require contextual security review.\n"
+  }
+ ],
+ "limitations": [
+  "Character matching alone cannot confirm command injection.",
+  "Application behavior and input handling must be reviewed separately."
+ ],
+ "recommendation": "Review how the application validates and processes this input.",
+ "safe_handling": "Treat input as data and never execute it as an operating system command."
+}

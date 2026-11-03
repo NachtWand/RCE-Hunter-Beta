@@ -1,0 +1,8 @@
+{
+ "lab_id": "inj-001",
+ "lab_name": "Command Injection Simulation",
+ "status": "Failed",
+ "message": "Expected Suspiciuos Input Was Not Detected",
+ "duration": 0,
+ "executed_at": "2026-10-28T12:49:34.9323936Z"
+}

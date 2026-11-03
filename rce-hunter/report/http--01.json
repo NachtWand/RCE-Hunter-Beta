@@ -1,0 +1,8 @@
+{
+ "lab_id": "http--01",
+ "lab_name": "HTTP Health Check",
+ "status": "PASS",
+ "message": "Expected Lab Behavior Confirmed",
+ "duration": 45128700,
+ "executed_at": "2026-10-28T15:53:35.9701436+03:30"
+}

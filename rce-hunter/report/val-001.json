@@ -1,0 +1,12 @@
+{
+ "lab_id": "val-001",
+ "lab_name": "Input Validation Simulation",
+ "status": "REJECTED",
+ "message": "Username Contains Invalid Characters",
+ "duration": 4582268900,
+ "executed_at": "2026-11-03T07:51:28.8583717Z",
+ "input": "m@hdi123",
+ "validation_errors": [
+  "Username Contains Invalid Characters"
+ ]
+}
